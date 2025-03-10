@@ -1,0 +1,16 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: discovery-service
+  cloud:
+    config:
+      enabled: false
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    wait-time-in-ms-when-sync-empty: 0 
