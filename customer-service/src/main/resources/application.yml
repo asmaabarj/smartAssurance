@@ -4,10 +4,15 @@ server:
 spring:
   application:
     name: customer-service
+  config:
+    import: optional:configserver:http://localhost:8888
+  cloud:
+    config:
+      enabled: true
   datasource:
     url: jdbc:postgresql://localhost:5432/insurance_customer
     username: postgres
-    password: postgres
+    password: asmaa123
   jpa:
     hibernate:
       ddl-auto: update

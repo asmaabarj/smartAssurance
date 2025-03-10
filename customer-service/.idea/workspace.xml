@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d35effe2-af0e-4188-a425-18a5702aa82a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../auth-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policy-service/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/AuthServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/AuthServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthResponse$AuthResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthResponse$AuthResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/dto/AuthResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/service/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../auth-service/target/classes/com/insurance/auth/service/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/target/classes/com/insurance/config/ConfigServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/target/classes/com/insurance/config/ConfigServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/CustomerServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/CustomerServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/dto/CustomerDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/dto/CustomerDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/model/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/repository/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/repository/CustomerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/insurance/customer/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/insurance/customer/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/src/main/java/com/insurance/policy/controller/PolicyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/src/main/java/com/insurance/policy/controller/PolicyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/src/main/java/com/insurance/policy/dto/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/src/main/java/com/insurance/policy/dto/CustomerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/client/CustomerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/client/CustomerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/controller/PolicyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/controller/PolicyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/dto/ClaimDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/dto/ClaimDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/dto/CustomerDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/dto/CustomerDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/Claim.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/Claim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/Policy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/Policy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/PolicyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/model/PolicyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/repository/ClaimRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/repository/ClaimRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/repository/PolicyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../policy-service/target/classes/com/insurance/policy/repository/PolicyRepository.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2u7bxvwvs7K8RRLNxqKjtBzGIl6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ycode/Desktop/smartAssurance/policy-service"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.insurance.customer.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35effe2-af0e-4188-a425-18a5702aa82a" name="Changes" comment="" />
+      <created>1741602809822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741602809822</updated>
+      <workItem from="1741602811437" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
